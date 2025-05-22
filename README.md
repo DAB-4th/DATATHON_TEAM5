@@ -22,6 +22,10 @@
   
 # 데이터 수집
 한국은행 open API, 국토교통부 실거래
+  - 사용기술: request ,pandas, matplotlib
+      1. request : 한국은행 open API 활용한 데이터 수집
+      2. pandas: 데이터 처리 및 분석
+      3. matplotlib: 데이터 처리 EDA 시각화
 
 # 데이터 전처리 
 외부데이터 한국은행 날짜 (2020-01-01 ~ 2024-12-31) 필터링 
